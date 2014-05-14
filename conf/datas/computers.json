@@ -1,0 +1,2737 @@
+[
+    {
+        "companyId": 1, 
+        "id": 1, 
+        "name": "MacBook Pro 15.4 inch"
+    }, 
+    {
+        "companyId": 2, 
+        "id": 2, 
+        "name": "CM-2a"
+    }, 
+    {
+        "companyId": 2, 
+        "id": 3, 
+        "name": "CM-200"
+    }, 
+    {
+        "companyId": 2, 
+        "id": 4, 
+        "name": "CM-5e"
+    }, 
+    {
+        "companyId": 2, 
+        "introduced": "1991-01-01", 
+        "id": 5, 
+        "name": "CM-5"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "2006-01-10", 
+        "id": 6, 
+        "name": "MacBook Pro"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 7, 
+        "name": "Apple IIe"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 8, 
+        "name": "Apple IIc"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 9, 
+        "name": "Apple IIGS"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 10, 
+        "name": "Apple IIc Plus"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 11, 
+        "name": "Apple II Plus"
+    }, 
+    {
+        "companyId": 1, 
+        "discontinued": "1984-04-01", 
+        "introduced": "1980-05-01", 
+        "id": 12, 
+        "name": "Apple III"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 13, 
+        "name": "Apple Lisa"
+    }, 
+    {
+        "companyId": 2, 
+        "id": 14, 
+        "name": "CM-2"
+    }, 
+    {
+        "companyId": 2, 
+        "introduced": "1987-01-01", 
+        "id": 15, 
+        "name": "Connection Machine"
+    }, 
+    {
+        "companyId": 1, 
+        "discontinued": "1993-10-01", 
+        "introduced": "1977-04-01", 
+        "id": 16, 
+        "name": "Apple II"
+    }, 
+    {
+        "companyId": 1, 
+        "discontinued": "1984-04-01", 
+        "introduced": "1983-12-01", 
+        "id": 17, 
+        "name": "Apple III Plus"
+    }, 
+    {
+        "companyId": 3, 
+        "id": 18, 
+        "name": "COSMAC ELF"
+    }, 
+    {
+        "companyId": 3, 
+        "introduced": "1977-01-01", 
+        "id": 19, 
+        "name": "COSMAC VIP"
+    }, 
+    {
+        "companyId": 4, 
+        "introduced": "1977-01-01", 
+        "id": 20, 
+        "name": "ELF II"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "1984-01-24", 
+        "id": 21, 
+        "name": "Macintosh"
+    }, 
+    {
+        "id": 22, 
+        "name": "Macintosh II"
+    }, 
+    {
+        "companyId": 1, 
+        "discontinued": "1990-10-15", 
+        "introduced": "1986-01-16", 
+        "id": 23, 
+        "name": "Macintosh Plus"
+    }, 
+    {
+        "id": 24, 
+        "name": "Macintosh IIfx"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "1998-01-01", 
+        "id": 25, 
+        "name": "iMac"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "2005-01-22", 
+        "id": 26, 
+        "name": "Mac Mini"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "2006-08-07", 
+        "id": 27, 
+        "name": "Mac Pro"
+    }, 
+    {
+        "companyId": 1, 
+        "discontinued": "2006-08-01", 
+        "introduced": "1994-03-01", 
+        "id": 28, 
+        "name": "Power Macintosh"
+    }, 
+    {
+        "companyId": 1, 
+        "discontinued": "2006-01-01", 
+        "introduced": "1991-01-01", 
+        "id": 29, 
+        "name": "PowerBook"
+    }, 
+    {
+        "id": 30, 
+        "name": "Xserve"
+    }, 
+    {
+        "id": 31, 
+        "name": "Powerbook 100"
+    }, 
+    {
+        "id": 32, 
+        "name": "Powerbook 140"
+    }, 
+    {
+        "id": 33, 
+        "name": "Powerbook 170"
+    }, 
+    {
+        "id": 34, 
+        "name": "PowerBook Duo"
+    }, 
+    {
+        "id": 35, 
+        "name": "PowerBook 190"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "1991-01-01", 
+        "id": 36, 
+        "name": "Macintosh Quadra"
+    }, 
+    {
+        "id": 37, 
+        "name": "Macintosh Quadra 900"
+    }, 
+    {
+        "id": 38, 
+        "name": "Macintosh Quadra 700"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "1990-01-01", 
+        "id": 39, 
+        "name": "Macintosh LC"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "1990-01-01", 
+        "id": 40, 
+        "name": "Macintosh LC II"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "1993-01-01", 
+        "id": 41, 
+        "name": "Macintosh LC III"
+    }, 
+    {
+        "id": 42, 
+        "name": "Macintosh LC III+"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "1993-10-21", 
+        "id": 43, 
+        "name": "Macintosh Quadra 605"
+    }, 
+    {
+        "id": 44, 
+        "name": "Macintosh LC 500 series"
+    }, 
+    {
+        "companyId": 5, 
+        "introduced": "1980-01-01", 
+        "id": 45, 
+        "name": "TRS-80 Color Computer"
+    }, 
+    {
+        "id": 46, 
+        "name": "Acorn System 2"
+    }, 
+    {
+        "id": 47, 
+        "name": "Dragon 32/64"
+    }, 
+    {
+        "id": 48, 
+        "name": "MEK6800D2"
+    }, 
+    {
+        "id": 49, 
+        "name": "Newbear 77/68"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 50, 
+        "name": "Commodore PET"
+    }, 
+    {
+        "companyId": 6, 
+        "discontinued": "1994-01-01", 
+        "introduced": "1982-08-01", 
+        "id": 51, 
+        "name": "Commodore 64"
+    }, 
+    {
+        "id": 52, 
+        "name": "Commodore 64C"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 53, 
+        "name": "Commodore SX-64"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 54, 
+        "name": "Commodore 128"
+    }, 
+    {
+        "companyId": 1, 
+        "discontinued": "1977-10-01", 
+        "introduced": "1976-04-01", 
+        "id": 55, 
+        "name": "Apple I"
+    }, 
+    {
+        "companyId": 7, 
+        "introduced": "1975-01-01", 
+        "id": 56, 
+        "name": "KIM-1"
+    }, 
+    {
+        "companyId": 8, 
+        "introduced": "1974-12-19", 
+        "id": 57, 
+        "name": "Altair 8800"
+    }, 
+    {
+        "companyId": 9, 
+        "introduced": "1975-08-01", 
+        "id": 58, 
+        "name": "IMSAI 8080"
+    }, 
+    {
+        "id": 59, 
+        "name": "IMSAI Series Two"
+    }, 
+    {
+        "companyId": 10, 
+        "introduced": "1977-10-25", 
+        "id": 60, 
+        "name": "VAX"
+    }, 
+    {
+        "companyId": 10, 
+        "introduced": "1977-10-25", 
+        "id": 61, 
+        "name": "VAX 11/780"
+    }, 
+    {
+        "companyId": 10, 
+        "introduced": "1980-10-01", 
+        "id": 62, 
+        "name": "VAX 11/750"
+    }, 
+    {
+        "companyId": 11, 
+        "introduced": "1958-01-01", 
+        "id": 63, 
+        "name": "TX-2"
+    }, 
+    {
+        "companyId": 11, 
+        "introduced": "1956-01-01", 
+        "id": 64, 
+        "name": "TX-0"
+    }, 
+    {
+        "companyId": 11, 
+        "introduced": "1951-04-20", 
+        "id": 65, 
+        "name": "Whirlwind"
+    }, 
+    {
+        "companyId": 12, 
+        "discontinued": "1955-10-02", 
+        "introduced": "1946-02-15", 
+        "id": 66, 
+        "name": "ENIAC"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1981-08-12", 
+        "id": 67, 
+        "name": "IBM PC"
+    }, 
+    {
+        "id": 68, 
+        "name": "Macintosh Classic"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "1991-01-01", 
+        "id": 69, 
+        "name": "Macintosh Classic II"
+    }, 
+    {
+        "companyId": 14, 
+        "introduced": "1985-01-01", 
+        "id": 70, 
+        "name": "Amiga"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 71, 
+        "name": "Amiga 1000"
+    }, 
+    {
+        "companyId": 6, 
+        "introduced": "1987-01-01", 
+        "id": 72, 
+        "name": "Amiga 500"
+    }, 
+    {
+        "id": 73, 
+        "name": "Amiga 500+"
+    }, 
+    {
+        "companyId": 6, 
+        "discontinued": "1990-01-01", 
+        "introduced": "1986-01-01", 
+        "id": 74, 
+        "name": "Amiga 2000"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 75, 
+        "name": "Amiga 3000"
+    }, 
+    {
+        "companyId": 6, 
+        "introduced": "1992-03-01", 
+        "id": 76, 
+        "name": "Amiga 600"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "1984-01-01", 
+        "id": 77, 
+        "name": "Macintosh 128K"
+    }, 
+    {
+        "companyId": 1, 
+        "discontinued": "1986-04-14", 
+        "introduced": "1984-09-10", 
+        "id": 78, 
+        "name": "Macintosh 512K"
+    }, 
+    {
+        "companyId": 1, 
+        "discontinued": "1989-08-01", 
+        "introduced": "1987-03-02", 
+        "id": 79, 
+        "name": "Macintosh SE"
+    }, 
+    {
+        "companyId": 1, 
+        "discontinued": "1991-10-21", 
+        "introduced": "1989-01-19", 
+        "id": 80, 
+        "name": "Macintosh SE/30"
+    }, 
+    {
+        "companyId": 15, 
+        "introduced": "1987-01-01", 
+        "id": 81, 
+        "name": "Canon Cat"
+    }, 
+    {
+        "companyId": 16, 
+        "id": 82, 
+        "name": "Nokia 770"
+    }, 
+    {
+        "companyId": 16, 
+        "introduced": "2007-01-01", 
+        "id": 83, 
+        "name": "Nokia N800"
+    }, 
+    {
+        "companyId": 17, 
+        "introduced": "2006-09-21", 
+        "id": 84, 
+        "name": "Mylo"
+    }, 
+    {
+        "companyId": 18, 
+        "introduced": "2007-01-01", 
+        "id": 85, 
+        "name": "OQO 02"
+    }, 
+    {
+        "id": 86, 
+        "name": "OQO 01+"
+    }, 
+    {
+        "id": 87, 
+        "name": "Pinwheel calculator"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 88, 
+        "name": "iBook"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "2006-05-16", 
+        "id": 89, 
+        "name": "MacBook"
+    }, 
+    {
+        "companyId": 19, 
+        "discontinued": "1993-01-01", 
+        "introduced": "1990-01-01", 
+        "id": 90, 
+        "name": "NeXTstation"
+    }, 
+    {
+        "companyId": 19, 
+        "discontinued": "1993-01-01", 
+        "introduced": "1988-01-01", 
+        "id": 91, 
+        "name": "NeXTcube"
+    }, 
+    {
+        "id": 92, 
+        "name": "NeXTstation Color Turbo"
+    }, 
+    {
+        "id": 93, 
+        "name": "NeXTstation Color"
+    }, 
+    {
+        "id": 94, 
+        "name": "NeXTstation Turbo"
+    }, 
+    {
+        "companyId": 19, 
+        "id": 95, 
+        "name": "NeXTcube Turbo"
+    }, 
+    {
+        "companyId": 19, 
+        "id": 96, 
+        "name": "NeXTcube 040"
+    }, 
+    {
+        "companyId": 19, 
+        "id": 97, 
+        "name": "NeXTcube 030"
+    }, 
+    {
+        "id": 98, 
+        "name": "Tinkertoy Tic-Tac-Toe Computer"
+    }, 
+    {
+        "id": 99, 
+        "name": "Z3"
+    }, 
+    {
+        "id": 100, 
+        "name": "Z4"
+    }, 
+    {
+        "id": 101, 
+        "name": "Z1"
+    }, 
+    {
+        "id": 102, 
+        "name": "Z2"
+    }, 
+    {
+        "introduced": "1973-05-01", 
+        "id": 103, 
+        "name": "Wang 2200"
+    }, 
+    {
+        "id": 104, 
+        "name": "Wang VS"
+    }, 
+    {
+        "id": 105, 
+        "name": "Wang OIS"
+    }, 
+    {
+        "companyId": 22, 
+        "id": 106, 
+        "name": "BBC Micro"
+    }, 
+    {
+        "companyId": 13, 
+        "discontinued": "1962-01-01", 
+        "introduced": "1953-01-01", 
+        "id": 107, 
+        "name": "IBM 650"
+    }, 
+    {
+        "id": 108, 
+        "name": "Cray-1"
+    }, 
+    {
+        "id": 109, 
+        "name": "Cray-3"
+    }, 
+    {
+        "id": 110, 
+        "name": "Cray-2"
+    }, 
+    {
+        "id": 111, 
+        "name": "Cray-4"
+    }, 
+    {
+        "id": 112, 
+        "name": "Cray X1"
+    }, 
+    {
+        "id": 113, 
+        "name": "Cray XD1"
+    }, 
+    {
+        "introduced": "1993-01-01", 
+        "id": 114, 
+        "name": "Cray T3D"
+    }, 
+    {
+        "introduced": "1995-01-01", 
+        "id": 115, 
+        "name": "Cray T3E"
+    }, 
+    {
+        "id": 116, 
+        "name": "Cray C90"
+    }, 
+    {
+        "id": 117, 
+        "name": "Cray T90"
+    }, 
+    {
+        "id": 118, 
+        "name": "Cray SV1"
+    }, 
+    {
+        "id": 119, 
+        "name": "Cray J90"
+    }, 
+    {
+        "id": 120, 
+        "name": "Cray XT3"
+    }, 
+    {
+        "id": 121, 
+        "name": "Cray CS6400"
+    }, 
+    {
+        "companyId": 20, 
+        "discontinued": "1993-01-01", 
+        "introduced": "1985-01-01", 
+        "id": 122, 
+        "name": "Atari ST"
+    }, 
+    {
+        "id": 123, 
+        "name": "Amiga 2500"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 124, 
+        "name": "Amiga 2500"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 125, 
+        "name": "Amiga 4000"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 126, 
+        "name": "Amiga 3000UX"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 127, 
+        "name": "Amiga 3000T"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 128, 
+        "name": "Amiga 4000T"
+    }, 
+    {
+        "companyId": 6, 
+        "discontinued": "1996-01-01", 
+        "introduced": "1992-10-01", 
+        "id": 129, 
+        "name": "Amiga 1200"
+    }, 
+    {
+        "introduced": "1986-01-01", 
+        "id": 130, 
+        "name": "Atari 1040 STf"
+    }, 
+    {
+        "introduced": "1985-01-01", 
+        "id": 131, 
+        "name": "Atari 520 ST"
+    }, 
+    {
+        "introduced": "1986-01-01", 
+        "id": 132, 
+        "name": "Atari 520 STfm"
+    }, 
+    {
+        "introduced": "1989-01-01", 
+        "id": 133, 
+        "name": "Atari 1040 STe"
+    }, 
+    {
+        "introduced": "1991-01-01", 
+        "id": 134, 
+        "name": "Atari MEGA STe"
+    }, 
+    {
+        "introduced": "1985-01-01", 
+        "id": 135, 
+        "name": "Atari 520 ST+"
+    }, 
+    {
+        "introduced": "1985-01-01", 
+        "id": 136, 
+        "name": "Atari 520 STm"
+    }, 
+    {
+        "introduced": "1985-01-01", 
+        "id": 137, 
+        "name": "Atari 130 ST"
+    }, 
+    {
+        "introduced": "1985-01-01", 
+        "id": 138, 
+        "name": "Atari 260 ST"
+    }, 
+    {
+        "introduced": "1987-01-01", 
+        "id": 139, 
+        "name": "Atari MEGA ST"
+    }, 
+    {
+        "introduced": "1986-01-01", 
+        "id": 140, 
+        "name": "Atari 520 STf"
+    }, 
+    {
+        "introduced": "1986-01-01", 
+        "id": 141, 
+        "name": "Atari 1040 STfm"
+    }, 
+    {
+        "introduced": "1986-01-01", 
+        "id": 142, 
+        "name": "Atari 2080 ST"
+    }, 
+    {
+        "introduced": "1985-01-01", 
+        "id": 143, 
+        "name": "Atari 260 ST+"
+    }, 
+    {
+        "introduced": "1988-01-01", 
+        "id": 144, 
+        "name": "Atari 4160 STe"
+    }, 
+    {
+        "id": 145, 
+        "name": "TRS-80 Color Computer 2"
+    }, 
+    {
+        "id": 146, 
+        "name": "TRS-80 Color Computer 3"
+    }, 
+    {
+        "companyId": 5, 
+        "introduced": "1977-01-01", 
+        "id": 147, 
+        "name": "TRS-80 Model 1"
+    }, 
+    {
+        "companyId": 23, 
+        "discontinued": "1984-04-01", 
+        "introduced": "1983-11-01", 
+        "id": 148, 
+        "name": "Timex Sinclair 2068"
+    }, 
+    {
+        "companyId": 25, 
+        "introduced": "1982-01-01", 
+        "id": 149, 
+        "name": "ZX Spectrum"
+    }, 
+    {
+        "companyId": 26, 
+        "introduced": "1981-01-01", 
+        "id": 150, 
+        "name": "Xerox Star"
+    }, 
+    {
+        "id": 151, 
+        "name": "Xerox Alto"
+    }, 
+    {
+        "companyId": 22, 
+        "id": 152, 
+        "name": "Acorn Archimedes"
+    }, 
+    {
+        "companyId": 24, 
+        "id": 153, 
+        "name": "Nintendo Entertainment System"
+    }, 
+    {
+        "companyId": 24, 
+        "discontinued": "1999-01-01", 
+        "introduced": "1991-08-01", 
+        "id": 154, 
+        "name": "Super Nintendo Entertainment System"
+    }, 
+    {
+        "id": 155, 
+        "name": "Super Famicom"
+    }, 
+    {
+        "companyId": 24, 
+        "id": 156, 
+        "name": "Nintendo GameCube"
+    }, 
+    {
+        "id": 157, 
+        "name": "Game Boy line"
+    }, 
+    {
+        "companyId": 17, 
+        "introduced": "1994-12-03", 
+        "id": 158, 
+        "name": "PlayStation"
+    }, 
+    {
+        "companyId": 17, 
+        "introduced": "2000-03-24", 
+        "id": 159, 
+        "name": "PlayStation 2"
+    }, 
+    {
+        "companyId": 24, 
+        "id": 160, 
+        "name": "Game & Watch"
+    }, 
+    {
+        "id": 161, 
+        "name": "EDSAC"
+    }, 
+    {
+        "id": 162, 
+        "name": "IBM System/4 Pi"
+    }, 
+    {
+        "id": 163, 
+        "name": "IBM AP-101"
+    }, 
+    {
+        "id": 164, 
+        "name": "IBM TC-1"
+    }, 
+    {
+        "id": 165, 
+        "name": "IBM AP-101B"
+    }, 
+    {
+        "companyId": 13, 
+        "id": 166, 
+        "name": "IBM AP-101S"
+    }, 
+    {
+        "companyId": 27, 
+        "id": 167, 
+        "name": "ProLiant"
+    }, 
+    {
+        "id": 168, 
+        "name": "Http://nepomuk.semanticdesktop.org/xwiki/"
+    }, 
+    {
+        "companyId": 25, 
+        "discontinued": "1986-01-01", 
+        "introduced": "1984-01-01", 
+        "id": 169, 
+        "name": "Sinclair QL"
+    }, 
+    {
+        "companyId": 25, 
+        "introduced": "1981-01-01", 
+        "id": 170, 
+        "name": "Sinclair ZX81"
+    }, 
+    {
+        "companyId": 25, 
+        "id": 171, 
+        "name": "Sinclair ZX80"
+    }, 
+    {
+        "companyId": 20, 
+        "id": 172, 
+        "name": "Atari 65XE"
+    }, 
+    {
+        "id": 173, 
+        "name": "Deep Blue"
+    }, 
+    {
+        "id": 174, 
+        "name": "Macintosh Quadra 650"
+    }, 
+    {
+        "id": 175, 
+        "name": "Macintosh Quadra 610"
+    }, 
+    {
+        "id": 176, 
+        "name": "Macintosh Quadra 800"
+    }, 
+    {
+        "id": 177, 
+        "name": "Macintosh Quadra 950"
+    }, 
+    {
+        "id": 178, 
+        "name": "PowerBook 160"
+    }, 
+    {
+        "id": 179, 
+        "name": "PowerBook 145B"
+    }, 
+    {
+        "id": 180, 
+        "name": "PowerBook 170"
+    }, 
+    {
+        "id": 181, 
+        "name": "PowerBook 145"
+    }, 
+    {
+        "id": 182, 
+        "name": "PowerBook G3"
+    }, 
+    {
+        "id": 183, 
+        "name": "PowerBook 140"
+    }, 
+    {
+        "id": 184, 
+        "name": "Macintosh IIcx"
+    }, 
+    {
+        "id": 185, 
+        "name": "Powerbook 180"
+    }, 
+    {
+        "id": 186, 
+        "name": "PowerBook G4"
+    }, 
+    {
+        "id": 187, 
+        "name": "Macintosh XL"
+    }, 
+    {
+        "id": 188, 
+        "name": "PowerBook 100"
+    }, 
+    {
+        "id": 189, 
+        "name": "PowerBook 2400c"
+    }, 
+    {
+        "id": 190, 
+        "name": "PowerBook 1400"
+    }, 
+    {
+        "id": 191, 
+        "name": "Macintosh Quadra 630"
+    }, 
+    {
+        "id": 192, 
+        "name": "Macintosh Quadra 660AV"
+    }, 
+    {
+        "id": 193, 
+        "name": "Macintosh Quadra 840AV"
+    }, 
+    {
+        "id": 194, 
+        "name": "PowerBook 5300"
+    }, 
+    {
+        "id": 195, 
+        "name": "PowerBook 3400c"
+    }, 
+    {
+        "id": 196, 
+        "name": "Macintosh Color Classic"
+    }, 
+    {
+        "id": 197, 
+        "name": "Macintosh 512Ke"
+    }, 
+    {
+        "id": 198, 
+        "name": "Macintosh IIsi"
+    }, 
+    {
+        "id": 199, 
+        "name": "Macintosh IIx"
+    }, 
+    {
+        "id": 200, 
+        "name": "PowerBook 500 series"
+    }, 
+    {
+        "id": 201, 
+        "name": "Power Macintosh G3"
+    }, 
+    {
+        "id": 202, 
+        "name": "Macintosh IIci"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "2004-08-31", 
+        "id": 203, 
+        "name": "iMac G5"
+    }, 
+    {
+        "id": 204, 
+        "name": "Power Mac G4"
+    }, 
+    {
+        "id": 205, 
+        "name": "Power Macintosh 7100"
+    }, 
+    {
+        "id": 206, 
+        "name": "Power Macintosh 9600"
+    }, 
+    {
+        "id": 207, 
+        "name": "Power Macintosh 7200"
+    }, 
+    {
+        "id": 208, 
+        "name": "Power Macintosh 7300"
+    }, 
+    {
+        "id": 209, 
+        "name": "Power Macintosh 8600"
+    }, 
+    {
+        "id": 210, 
+        "name": "Power Macintosh 6200"
+    }, 
+    {
+        "id": 211, 
+        "name": "Power Macintosh 8100"
+    }, 
+    {
+        "id": 212, 
+        "name": "Compact Macintosh"
+    }, 
+    {
+        "id": 213, 
+        "name": "Power Macintosh 4400"
+    }, 
+    {
+        "id": 214, 
+        "name": "Power Macintosh 9500"
+    }, 
+    {
+        "id": 215, 
+        "name": "Macintosh Portable"
+    }, 
+    {
+        "id": 216, 
+        "name": "EMac"
+    }, 
+    {
+        "id": 217, 
+        "name": "Power Macintosh 7600"
+    }, 
+    {
+        "id": 218, 
+        "name": "Power Mac G5"
+    }, 
+    {
+        "id": 219, 
+        "name": "Power Macintosh 7500"
+    }, 
+    {
+        "id": 220, 
+        "name": "Power Macintosh 6100"
+    }, 
+    {
+        "id": 221, 
+        "name": "Power Macintosh 8500"
+    }, 
+    {
+        "id": 222, 
+        "name": "Macintosh IIvi"
+    }, 
+    {
+        "id": 223, 
+        "name": "Macintosh IIvx"
+    }, 
+    {
+        "id": 224, 
+        "name": "IMac G3"
+    }, 
+    {
+        "id": 225, 
+        "name": "IMac G4"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 226, 
+        "name": "Power Mac G4 Cube"
+    }, 
+    {
+        "id": 227, 
+        "name": "Intel iMac"
+    }, 
+    {
+        "companyId": 13, 
+        "id": 228, 
+        "name": "Deep Thought"
+    }, 
+    {
+        "companyId": 24, 
+        "introduced": "2006-11-19", 
+        "id": 229, 
+        "name": "Wii"
+    }, 
+    {
+        "id": 230, 
+        "name": "IBM System x"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "2006-01-01", 
+        "id": 231, 
+        "name": "IBM System i"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "2006-01-01", 
+        "id": 232, 
+        "name": "IBM System z"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "2000-01-01", 
+        "id": 233, 
+        "name": "IBM System p"
+    }, 
+    {
+        "id": 234, 
+        "name": "LC 575"
+    }, 
+    {
+        "id": 235, 
+        "name": "Macintosh TV"
+    }, 
+    {
+        "id": 236, 
+        "name": "Macintosh Performa"
+    }, 
+    {
+        "id": 237, 
+        "name": "Macintosh II series"
+    }, 
+    {
+        "id": 238, 
+        "name": "Power Macintosh 6400"
+    }, 
+    {
+        "id": 239, 
+        "name": "Power Macintosh 6500"
+    }, 
+    {
+        "id": 240, 
+        "name": "Apple PenLite"
+    }, 
+    {
+        "id": 241, 
+        "name": "Wallstreet"
+    }, 
+    {
+        "id": 242, 
+        "name": "Twentieth Anniversary Macintosh"
+    }, 
+    {
+        "id": 243, 
+        "name": "Power Macintosh 5500"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 244, 
+        "name": "iBook G3"
+    }, 
+    {
+        "id": 245, 
+        "name": "Power Macintosh 5200 LC"
+    }, 
+    {
+        "id": 246, 
+        "name": "Power Macintosh 5400"
+    }, 
+    {
+        "id": 247, 
+        "name": "CM-1"
+    }, 
+    {
+        "companyId": 28, 
+        "discontinued": "1995-01-01", 
+        "introduced": "1983-01-01", 
+        "id": 248, 
+        "name": "MSX"
+    }, 
+    {
+        "companyId": 17, 
+        "id": 249, 
+        "name": "PlayStation 3"
+    }, 
+    {
+        "companyId": 29, 
+        "introduced": "1986-01-01", 
+        "id": 250, 
+        "name": "MSX2"
+    }, 
+    {
+        "companyId": 30, 
+        "introduced": "1988-01-01", 
+        "id": 251, 
+        "name": "MSX2+"
+    }, 
+    {
+        "introduced": "1990-01-01", 
+        "id": 252, 
+        "name": "MSX turbo R"
+    }, 
+    {
+        "id": 253, 
+        "name": "Panasonic FS A1GT"
+    }, 
+    {
+        "id": 254, 
+        "name": "Panasonic FS A1ST"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 255, 
+        "name": "PDP-11"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 256, 
+        "name": "PDP-1"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 257, 
+        "name": "PDP-10"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 258, 
+        "name": "PDP-8"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 259, 
+        "name": "PDP-6"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 260, 
+        "name": "DECSYSTEM-20"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 261, 
+        "name": "PDP-7"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 262, 
+        "name": "PDP-5"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 263, 
+        "name": "PDP-12"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 264, 
+        "name": "LINC"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 265, 
+        "name": "PDP-14"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 266, 
+        "name": "PDP-15"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 267, 
+        "name": "PDP-16"
+    }, 
+    {
+        "companyId": 31, 
+        "introduced": "2007-01-01", 
+        "id": 268, 
+        "name": "Cray X2"
+    }, 
+    {
+        "companyId": 31, 
+        "introduced": "1982-01-01", 
+        "id": 269, 
+        "name": "Cray X-MP"
+    }, 
+    {
+        "companyId": 32, 
+        "id": 270, 
+        "name": "Evans & Sutherland ES-1"
+    }, 
+    {
+        "companyId": 6, 
+        "introduced": "1980-01-01", 
+        "id": 271, 
+        "name": "Commodore VIC-20"
+    }, 
+    {
+        "id": 272, 
+        "name": "PowerBook 150"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "2008-01-15", 
+        "id": 273, 
+        "name": "MacBook Air"
+    }, 
+    {
+        "companyId": 33, 
+        "introduced": "1963-01-01", 
+        "id": 274, 
+        "name": "Digi-Comp I"
+    }, 
+    {
+        "id": 275, 
+        "name": "Digi-Comp"
+    }, 
+    {
+        "companyId": 33, 
+        "id": 276, 
+        "name": "Digi-Comp II"
+    }, 
+    {
+        "introduced": "1949-01-01", 
+        "id": 277, 
+        "name": "Manchester Mark I"
+    }, 
+    {
+        "introduced": "1948-01-01", 
+        "id": 278, 
+        "name": "Small-Scale Experimental Machine"
+    }, 
+    {
+        "companyId": 24, 
+        "id": 279, 
+        "name": "Nintendo 64"
+    }, 
+    {
+        "companyId": 24, 
+        "id": 280, 
+        "name": "Game Boy Advance"
+    }, 
+    {
+        "companyId": 24, 
+        "id": 281, 
+        "name": "Game Boy"
+    }, 
+    {
+        "companyId": 24, 
+        "id": 282, 
+        "name": "Nintendo DS Lite"
+    }, 
+    {
+        "companyId": 24, 
+        "introduced": "2004-01-01", 
+        "id": 283, 
+        "name": "Nintendo DS"
+    }, 
+    {
+        "companyId": 24, 
+        "id": 284, 
+        "name": "Game Boy Color"
+    }, 
+    {
+        "companyId": 24, 
+        "id": 285, 
+        "name": "Game Boy Advance SP"
+    }, 
+    {
+        "companyId": 24, 
+        "id": 286, 
+        "name": "Virtual Boy"
+    }, 
+    {
+        "companyId": 24, 
+        "id": 287, 
+        "name": "Game Boy Micro"
+    }, 
+    {
+        "companyId": 13, 
+        "id": 288, 
+        "name": "Roadrunner"
+    }, 
+    {
+        "id": 289, 
+        "name": "HP 9000"
+    }, 
+    {
+        "id": 290, 
+        "name": "OMRON Luna-88K2"
+    }, 
+    {
+        "companyId": 34, 
+        "id": 291, 
+        "name": "OMRON Luna-88K"
+    }, 
+    {
+        "id": 292, 
+        "name": "Motorola series 900"
+    }, 
+    {
+        "id": 293, 
+        "name": "Motorola M8120"
+    }, 
+    {
+        "id": 294, 
+        "name": "Triton Dolphin System 100"
+    }, 
+    {
+        "companyId": 35, 
+        "introduced": "1989-08-01", 
+        "id": 295, 
+        "name": "BBN TC2000"
+    }, 
+    {
+        "id": 296, 
+        "name": "WRT54G"
+    }, 
+    {
+        "companyId": 36, 
+        "introduced": "1992-01-01", 
+        "id": 297, 
+        "name": "ThinkPad"
+    }, 
+    {
+        "companyId": 1, 
+        "discontinued": "1998-01-01", 
+        "introduced": "1993-01-01", 
+        "id": 298, 
+        "name": "Apple Newton"
+    }, 
+    {
+        "introduced": "1937-01-01", 
+        "id": 299, 
+        "name": "Atanasoff-Berry Computer"
+    }, 
+    {
+        "discontinued": "1974-01-01", 
+        "introduced": "1962-01-01", 
+        "id": 300, 
+        "name": "Atlas Computer"
+    }, 
+    {
+        "companyId": 37, 
+        "id": 301, 
+        "name": "ASUS Eee PC 901"
+    }, 
+    {
+        "id": 302, 
+        "name": "ASUS Eee PC 701"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1961-01-01", 
+        "id": 303, 
+        "name": "IBM 7030"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1979-01-01", 
+        "id": 304, 
+        "name": "System/38"
+    }, 
+    {
+        "companyId": 13, 
+        "discontinued": "2000-01-01", 
+        "introduced": "1983-01-01", 
+        "id": 305, 
+        "name": "System/36"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1959-01-01", 
+        "id": 306, 
+        "name": "IBM 7090"
+    }, 
+    {
+        "companyId": 13, 
+        "id": 307, 
+        "name": "IBM RT"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1964-01-01", 
+        "id": 308, 
+        "name": "System/360"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1980-01-01", 
+        "id": 309, 
+        "name": "IBM 801"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1959-01-01", 
+        "id": 310, 
+        "name": "IBM 1401"
+    }, 
+    {
+        "companyId": 13, 
+        "discontinued": "2006-01-01", 
+        "introduced": "2001-01-01", 
+        "id": 311, 
+        "name": "ASCI White"
+    }, 
+    {
+        "companyId": 13, 
+        "id": 312, 
+        "name": "Blue Gene"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1998-01-01", 
+        "id": 313, 
+        "name": "ASCI Blue Pacific"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "2007-06-01", 
+        "id": 314, 
+        "name": "iPhone"
+    }, 
+    {
+        "companyId": 16, 
+        "introduced": "2007-10-17", 
+        "id": 315, 
+        "name": "Nokia N810"
+    }, 
+    {
+        "id": 316, 
+        "name": "EDSAC 2"
+    }, 
+    {
+        "id": 317, 
+        "name": "Titan"
+    }, 
+    {
+        "id": 318, 
+        "name": "Pilot ACE"
+    }, 
+    {
+        "companyId": 27, 
+        "introduced": "2008-10-29", 
+        "id": 319, 
+        "name": "HP Mini 1000"
+    }, 
+    {
+        "companyId": 27, 
+        "introduced": "2008-04-15", 
+        "id": 320, 
+        "name": "HP 2133 Mini-Note PC"
+    }, 
+    {
+        "introduced": "2008-12-04", 
+        "id": 321, 
+        "name": "Kogan Agora Pro"
+    }, 
+    {
+        "id": 322, 
+        "name": "D-Series Machines"
+    }, 
+    {
+        "companyId": 25, 
+        "introduced": "1982-01-01", 
+        "id": 323, 
+        "name": "ZX Spectrum 48K"
+    }, 
+    {
+        "companyId": 25, 
+        "introduced": "1982-01-01", 
+        "id": 324, 
+        "name": "ZX Spectrum 16K"
+    }, 
+    {
+        "companyId": 25, 
+        "introduced": "1985-09-01", 
+        "id": 325, 
+        "name": "ZX Spectrum 128"
+    }, 
+    {
+        "companyId": 38, 
+        "id": 326, 
+        "name": "ZX Spectrum +3"
+    }, 
+    {
+        "companyId": 38, 
+        "introduced": "1986-01-01", 
+        "id": 327, 
+        "name": "ZX Spectrum +2"
+    }, 
+    {
+        "companyId": 38, 
+        "introduced": "1987-01-01", 
+        "id": 328, 
+        "name": "ZX Spectrum +2A"
+    }, 
+    {
+        "companyId": 25, 
+        "introduced": "1984-06-01", 
+        "id": 329, 
+        "name": "ZX Spectrum +"
+    }, 
+    {
+        "id": 330, 
+        "name": "Acer Extensa"
+    }, 
+    {
+        "id": 331, 
+        "name": "Acer Extensa 5220"
+    }, 
+    {
+        "id": 332, 
+        "name": "Dell Latitude"
+    }, 
+    {
+        "id": 333, 
+        "name": "Toshiba Satellite"
+    }, 
+    {
+        "companyId": 23, 
+        "id": 334, 
+        "name": "Timex Sinclair 2048"
+    }, 
+    {
+        "id": 335, 
+        "name": "Sprinter"
+    }, 
+    {
+        "id": 336, 
+        "name": "Timex Computer 2048"
+    }, 
+    {
+        "id": 337, 
+        "name": "Pentagon"
+    }, 
+    {
+        "id": 338, 
+        "name": "Belle"
+    }, 
+    {
+        "companyId": 25, 
+        "id": 339, 
+        "name": "Loki"
+    }, 
+    {
+        "id": 340, 
+        "name": "Hobbit"
+    }, 
+    {
+        "companyId": 19, 
+        "id": 341, 
+        "name": "NeXT Computer"
+    }, 
+    {
+        "id": 342, 
+        "name": "TRS-80"
+    }, 
+    {
+        "companyId": 5, 
+        "introduced": "1980-01-01", 
+        "id": 343, 
+        "name": "TRS-80 Model 2"
+    }, 
+    {
+        "companyId": 5, 
+        "id": 344, 
+        "name": "TRS-80 Model 3"
+    }, 
+    {
+        "introduced": "1989-01-01", 
+        "id": 345, 
+        "name": "STacy"
+    }, 
+    {
+        "introduced": "1990-01-01", 
+        "id": 346, 
+        "name": "ST BOOK"
+    }, 
+    {
+        "introduced": "1989-01-01", 
+        "id": 347, 
+        "name": "Atari 520 STE"
+    }, 
+    {
+        "id": 348, 
+        "name": "Amiga 2000 Model A"
+    }, 
+    {
+        "id": 349, 
+        "name": "Amiga 2000 Model B"
+    }, 
+    {
+        "id": 350, 
+        "name": "Amiga 2000 Model C"
+    }, 
+    {
+        "id": 351, 
+        "name": "IBM 3270"
+    }, 
+    {
+        "id": 352, 
+        "name": "CALDIC"
+    }, 
+    {
+        "id": 353, 
+        "name": "Modbook"
+    }, 
+    {
+        "id": 354, 
+        "name": "Compaq SystemPro"
+    }, 
+    {
+        "id": 355, 
+        "name": "ARRA"
+    }, 
+    {
+        "id": 356, 
+        "name": "IBM System Cluster 1350"
+    }, 
+    {
+        "id": 357, 
+        "name": "Finite element machine"
+    }, 
+    {
+        "id": 358, 
+        "name": "ES7000"
+    }, 
+    {
+        "id": 359, 
+        "name": "HP MediaSmart Server"
+    }, 
+    {
+        "id": 360, 
+        "name": "HP Superdome"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "2008-01-01", 
+        "id": 361, 
+        "name": "IBM Power Systems"
+    }, 
+    {
+        "id": 362, 
+        "name": "Oslo Analyzer"
+    }, 
+    {
+        "id": 363, 
+        "name": "Microsoft Softcard"
+    }, 
+    {
+        "id": 364, 
+        "name": "WITCH"
+    }, 
+    {
+        "id": 365, 
+        "name": "Analytical engine"
+    }, 
+    {
+        "id": 366, 
+        "name": "EDVAC"
+    }, 
+    {
+        "id": 367, 
+        "name": "BINAC"
+    }, 
+    {
+        "id": 368, 
+        "name": "Earth Simulator"
+    }, 
+    {
+        "id": 369, 
+        "name": "BARK"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1944-01-01", 
+        "id": 370, 
+        "name": "Harvard Mark I"
+    }, 
+    {
+        "id": 371, 
+        "name": "ILLIAC IV"
+    }, 
+    {
+        "id": 372, 
+        "name": "ILLIAC II"
+    }, 
+    {
+        "id": 373, 
+        "name": "ILLIAC III"
+    }, 
+    {
+        "id": 374, 
+        "name": "Water integrator"
+    }, 
+    {
+        "id": 375, 
+        "name": "CSIRAC"
+    }, 
+    {
+        "id": 376, 
+        "name": "System X"
+    }, 
+    {
+        "id": 377, 
+        "name": "Harvest"
+    }, 
+    {
+        "id": 378, 
+        "name": "ChipTest"
+    }, 
+    {
+        "id": 379, 
+        "name": "HiTech"
+    }, 
+    {
+        "id": 380, 
+        "name": "Bomba"
+    }, 
+    {
+        "id": 381, 
+        "name": "ACE"
+    }, 
+    {
+        "id": 382, 
+        "name": "ASCI Red"
+    }, 
+    {
+        "id": 383, 
+        "name": "ASCI Thors Hammer"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "2005-01-01", 
+        "id": 384, 
+        "name": "ASCI Purple"
+    }, 
+    {
+        "id": 385, 
+        "name": "ASCI Blue Mountain"
+    }, 
+    {
+        "id": 386, 
+        "name": "Columbia"
+    }, 
+    {
+        "id": 387, 
+        "name": "HP Integrity"
+    }, 
+    {
+        "id": 388, 
+        "name": "APEXC"
+    }, 
+    {
+        "id": 389, 
+        "name": "Datasaab D2"
+    }, 
+    {
+        "id": 390, 
+        "name": "BRLESC"
+    }, 
+    {
+        "id": 391, 
+        "name": "DYSEAC"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1948-01-01", 
+        "id": 392, 
+        "name": "SSEC"
+    }, 
+    {
+        "id": 393, 
+        "name": "Hydra"
+    }, 
+    {
+        "id": 394, 
+        "name": "FUJIC"
+    }, 
+    {
+        "id": 395, 
+        "name": "RAYDAC"
+    }, 
+    {
+        "id": 396, 
+        "name": "Harvard Mark III"
+    }, 
+    {
+        "id": 397, 
+        "name": "DATAR"
+    }, 
+    {
+        "id": 398, 
+        "name": "ReserVec"
+    }, 
+    {
+        "id": 399, 
+        "name": "DASK"
+    }, 
+    {
+        "id": 400, 
+        "name": "UTEC"
+    }, 
+    {
+        "id": 401, 
+        "name": "DRTE Computer"
+    }, 
+    {
+        "id": 402, 
+        "name": "PowerEdge"
+    }, 
+    {
+        "id": 403, 
+        "name": "Apple Network Server"
+    }, 
+    {
+        "id": 404, 
+        "name": "Goodyear MPP"
+    }, 
+    {
+        "id": 405, 
+        "name": "Macintosh 128K technical details"
+    }, 
+    {
+        "id": 406, 
+        "name": "Power Macintosh G3"
+    }, 
+    {
+        "id": 407, 
+        "name": "CER-10"
+    }, 
+    {
+        "id": 408, 
+        "name": "CER-20"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "2002-01-01", 
+        "id": 409, 
+        "name": "IBM BladeCenter"
+    }, 
+    {
+        "id": 410, 
+        "name": "Wisconsin Integrally Synchronized Computer"
+    }, 
+    {
+        "companyId": 38, 
+        "id": 411, 
+        "name": "Amstrad CPC"
+    }, 
+    {
+        "companyId": 38, 
+        "id": 412, 
+        "name": "Amstrad CPC 6128"
+    }, 
+    {
+        "companyId": 38, 
+        "id": 413, 
+        "name": "Amstrad CPC 664"
+    }, 
+    {
+        "companyId": 38, 
+        "id": 414, 
+        "name": "Amstrad CPC 464"
+    }, 
+    {
+        "id": 415, 
+        "name": "Intergraph"
+    }, 
+    {
+        "id": 416, 
+        "name": "Enterprise"
+    }, 
+    {
+        "id": 417, 
+        "name": "MTX500"
+    }, 
+    {
+        "id": 418, 
+        "name": "Acorn Electron"
+    }, 
+    {
+        "companyId": 17, 
+        "introduced": "2009-02-01", 
+        "id": 419, 
+        "name": "Sony Vaio P"
+    }, 
+    {
+        "companyId": 17, 
+        "id": 420, 
+        "name": "VAIO"
+    }, 
+    {
+        "id": 421, 
+        "name": "Sony Vaio P VGN-P588E/Q"
+    }, 
+    {
+        "id": 422, 
+        "name": "Sony Vaio P VGN-P530H/G"
+    }, 
+    {
+        "id": 423, 
+        "name": "Sony Vaio P VGN-P530H/W"
+    }, 
+    {
+        "id": 424, 
+        "name": "Sony Vaio P VGN-P530H/Q"
+    }, 
+    {
+        "id": 425, 
+        "name": "Sony Vaio P VGN-P530H/R"
+    }, 
+    {
+        "id": 426, 
+        "name": "Sony Vaio P VGN-P588E/R"
+    }, 
+    {
+        "id": 427, 
+        "name": "Sony Vaio P VGN-P598E/Q"
+    }, 
+    {
+        "companyId": 23, 
+        "introduced": "1982-07-01", 
+        "id": 428, 
+        "name": "Timex Sinclair 1000"
+    }, 
+    {
+        "id": 429, 
+        "name": "Komputer 2086"
+    }, 
+    {
+        "id": 430, 
+        "name": "Galaksija"
+    }, 
+    {
+        "id": 431, 
+        "name": "Vector-06C"
+    }, 
+    {
+        "id": 432, 
+        "name": "Elektronika BK"
+    }, 
+    {
+        "companyId": 39, 
+        "id": 433, 
+        "name": "Sun386i"
+    }, 
+    {
+        "discontinued": "1989-01-01", 
+        "introduced": "1985-01-01", 
+        "id": 434, 
+        "name": "Xerox Daybreak"
+    }, 
+    {
+        "companyId": 26, 
+        "id": 435, 
+        "name": "Xerox NoteTaker"
+    }, 
+    {
+        "introduced": "1965-01-01", 
+        "id": 436, 
+        "name": "D4a"
+    }, 
+    {
+        "id": 437, 
+        "name": "LGP-30"
+    }, 
+    {
+        "id": 438, 
+        "name": "LGP-21"
+    }, 
+    {
+        "companyId": 37, 
+        "introduced": "2008-05-01", 
+        "id": 439, 
+        "name": "ASUS Eee PC 900"
+    }, 
+    {
+        "id": 440, 
+        "name": "Atari TT030"
+    }, 
+    {
+        "id": 441, 
+        "name": "Bi Am ZX-Spectrum 48/64"
+    }, 
+    {
+        "id": 442, 
+        "name": "Bi Am ZX-Spectrum 128"
+    }, 
+    {
+        "id": 443, 
+        "name": "PlayStation Portable"
+    }, 
+    {
+        "id": 444, 
+        "name": "MSI Wind Netbook"
+    }, 
+    {
+        "introduced": "2009-04-21", 
+        "id": 445, 
+        "name": "Sharp Mebius NJ70A"
+    }, 
+    {
+        "companyId": 41, 
+        "id": 446, 
+        "name": "HTC Snap"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 447, 
+        "name": "Commodore Educator 64"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 448, 
+        "name": "Amiga 1500"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 449, 
+        "name": "Commodore 65"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 450, 
+        "name": "Commodore 16"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 451, 
+        "name": "Commodore CBM-II"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 452, 
+        "name": "Commodore Plus/4"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 453, 
+        "name": "Commodore LCD"
+    }, 
+    {
+        "companyId": 6, 
+        "id": 454, 
+        "name": "Commodore MAX Machine"
+    }, 
+    {
+        "id": 455, 
+        "name": "Aster CT-80"
+    }, 
+    {
+        "discontinued": "2009-01-01", 
+        "introduced": "2009-01-01", 
+        "id": 456, 
+        "name": "Test"
+    }, 
+    {
+        "id": 457, 
+        "name": "MSI GX723"
+    }, 
+    {
+        "introduced": "2009-05-22", 
+        "id": 458, 
+        "name": "Eee PC 1000HV"
+    }, 
+    {
+        "introduced": "1983-01-01", 
+        "id": 459, 
+        "name": "VTech Laser 200"
+    }, 
+    {
+        "id": 460, 
+        "name": "CrunchPad"
+    }, 
+    {
+        "introduced": "1990-01-01", 
+        "id": 461, 
+        "name": "Neo Geo"
+    }, 
+    {
+        "id": 462, 
+        "name": "Sega Mega Drive"
+    }, 
+    {
+        "id": 463, 
+        "name": "Sega Master System"
+    }, 
+    {
+        "id": 464, 
+        "name": "TurboGrafx-16"
+    }, 
+    {
+        "companyId": 39, 
+        "id": 465, 
+        "name": "Sun-3"
+    }, 
+    {
+        "id": 466, 
+        "name": "Pleiades"
+    }, 
+    {
+        "id": 467, 
+        "name": "IBM Sequoia"
+    }, 
+    {
+        "id": 468, 
+        "name": "Inves Spectrum 48k plus"
+    }, 
+    {
+        "id": 469, 
+        "name": "iPhone 3G"
+    }, 
+    {
+        "id": 470, 
+        "name": "iPhone 3GS"
+    }, 
+    {
+        "companyId": 40, 
+        "id": 471, 
+        "name": "Beagle Board"
+    }, 
+    {
+        "id": 472, 
+        "name": "HP nPar"
+    }, 
+    {
+        "id": 473, 
+        "name": "MacBook Family"
+    }, 
+    {
+        "id": 474, 
+        "name": "Reservisor"
+    }, 
+    {
+        "id": 475, 
+        "name": "BladeSystem"
+    }, 
+    {
+        "id": 476, 
+        "name": "lenovo thinkpad t60p"
+    }, 
+    {
+        "companyId": 36, 
+        "id": 477, 
+        "name": "lenovo thinkpad x200"
+    }, 
+    {
+        "id": 478, 
+        "name": "lenovo thinkpad t60"
+    }, 
+    {
+        "id": 479, 
+        "name": "lenovo thinkpad w700"
+    }, 
+    {
+        "id": 480, 
+        "name": "lenovo thinkpad t41"
+    }, 
+    {
+        "id": 481, 
+        "name": "lenovo thinkpad z61p"
+    }, 
+    {
+        "id": 482, 
+        "name": "lenovo thinkpad x61s"
+    }, 
+    {
+        "id": 483, 
+        "name": "lenovo thinkpad t43"
+    }, 
+    {
+        "id": 484, 
+        "name": "lenovo thinkpad r400"
+    }, 
+    {
+        "id": 485, 
+        "name": "lenovo thinkpad x60s"
+    }, 
+    {
+        "id": 486, 
+        "name": "lenovo thinkpad x301"
+    }, 
+    {
+        "id": 487, 
+        "name": "lenovo thinkpad t42"
+    }, 
+    {
+        "id": 488, 
+        "name": "lenovo thinkpad r61"
+    }, 
+    {
+        "id": 489, 
+        "name": "lenovo thinkpad w500"
+    }, 
+    {
+        "id": 490, 
+        "name": "lenovo thinkpad sl400"
+    }, 
+    {
+        "id": 491, 
+        "name": "lenovo thinkpad x40"
+    }, 
+    {
+        "companyId": 36, 
+        "id": 492, 
+        "name": "lenovo thinkpad x200 tablet"
+    }, 
+    {
+        "id": 493, 
+        "name": "lenovo thinkpad t400s"
+    }, 
+    {
+        "companyId": 16, 
+        "introduced": "2009-10-01", 
+        "id": 494, 
+        "name": "Nokia N900"
+    }, 
+    {
+        "id": 495, 
+        "name": "Internet Tablet"
+    }, 
+    {
+        "discontinued": "1993-01-01", 
+        "introduced": "1986-01-01", 
+        "id": 496, 
+        "name": "Meiko Computing Surface"
+    }, 
+    {
+        "id": 497, 
+        "name": "CS-2"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1952-01-01", 
+        "id": 498, 
+        "name": "IBM 701"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1975-01-01", 
+        "id": 499, 
+        "name": "IBM 5100"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1958-01-01", 
+        "id": 500, 
+        "name": "AN/FSQ-7"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1960-01-01", 
+        "id": 501, 
+        "name": "AN/FSQ-32"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1949-01-01", 
+        "id": 502, 
+        "name": "IBM CPC"
+    }, 
+    {
+        "companyId": 13, 
+        "discontinued": "1983-01-01", 
+        "introduced": "1978-01-01", 
+        "id": 503, 
+        "name": "System/34"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1975-01-01", 
+        "id": 504, 
+        "name": "System/32"
+    }, 
+    {
+        "companyId": 13, 
+        "discontinued": "1985-01-01", 
+        "introduced": "1969-01-01", 
+        "id": 505, 
+        "name": "System/3"
+    }, 
+    {
+        "companyId": 13, 
+        "introduced": "1956-01-01", 
+        "id": 506, 
+        "name": "IBM 305"
+    }, 
+    {
+        "id": 507, 
+        "name": "English Electric DEUCE"
+    }, 
+    {
+        "id": 508, 
+        "name": "CER-203"
+    }, 
+    {
+        "id": 509, 
+        "name": "CER-22"
+    }, 
+    {
+        "id": 510, 
+        "name": "Kentucky Linux Athlon Testbed"
+    }, 
+    {
+        "id": 511, 
+        "name": "QNAP TS-101"
+    }, 
+    {
+        "companyId": 1, 
+        "discontinued": "2011-03-02", 
+        "introduced": "2010-01-01", 
+        "id": 512, 
+        "name": "iPad"
+    }, 
+    {
+        "id": 513, 
+        "name": "iPhone 2G"
+    }, 
+    {
+        "id": 514, 
+        "name": "Inslaw"
+    }, 
+    {
+        "introduced": "2010-07-01", 
+        "id": 515, 
+        "name": "WePad"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 516, 
+        "name": "MacBook Parts"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 517, 
+        "name": "MacBook 13-inch Core 2 Duo 2.13GHz (MC240LL/A) DDR2 Model"
+    }, 
+    {
+        "id": 518, 
+        "name": "MacBook 13-inch Core 2 Duo 2.13GHz (MC240T/A) DDR2 Model"
+    }, 
+    {
+        "id": 519, 
+        "name": "MacBook 13-inch Core 2 Duo 2.13GHz (MC240X/A) DDR2 Model"
+    }, 
+    {
+        "id": 520, 
+        "name": "MacBook 13-inch Core 2 Duo 2.26GHz (Unibody MC207LL/A) DDR3 Model"
+    }, 
+    {
+        "id": 521, 
+        "name": "MC240LL/A"
+    }, 
+    {
+        "id": 522, 
+        "name": "D.K.COMMUNICATION"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 523, 
+        "name": "iPhone 4"
+    }, 
+    {
+        "companyId": 24, 
+        "introduced": "2010-03-23", 
+        "id": 524, 
+        "name": "Nintendo 3DS"
+    }, 
+    {
+        "companyId": 37, 
+        "introduced": "2010-01-01", 
+        "id": 525, 
+        "name": "ASUS Eee PC 1005PE"
+    }, 
+    {
+        "id": 526, 
+        "name": "National Law Enforcement System"
+    }, 
+    {
+        "companyId": 42, 
+        "id": 527, 
+        "name": "BlackBerry PlayBook"
+    }, 
+    {
+        "introduced": "2009-10-20", 
+        "id": 528, 
+        "name": "Barnes & Noble nook"
+    }, 
+    {
+        "id": 529, 
+        "name": "SAM Coup\u00e9"
+    }, 
+    {
+        "companyId": 41, 
+        "introduced": "2008-10-22", 
+        "id": 530, 
+        "name": "HTC Dream"
+    }, 
+    {
+        "companyId": 43, 
+        "introduced": "2010-09-02", 
+        "id": 531, 
+        "name": "Samsung Galaxy Tab"
+    }, 
+    {
+        "companyId": 42, 
+        "introduced": "2010-09-27", 
+        "id": 532, 
+        "name": "BlackBerry PlayBook"
+    }, 
+    {
+        "id": 533, 
+        "name": "Tianhe-I"
+    }, 
+    {
+        "id": 534, 
+        "name": "Kno"
+    }, 
+    {
+        "id": 535, 
+        "name": "ThinkPad 701 C"
+    }, 
+    {
+        "id": 536, 
+        "name": "ThinkPad 340 CSE"
+    }, 
+    {
+        "id": 537, 
+        "name": "ThinkPad 755 CX"
+    }, 
+    {
+        "id": 538, 
+        "name": "ThinkPad 755 CE"
+    }, 
+    {
+        "id": 539, 
+        "name": "ThinkPad 370 C"
+    }, 
+    {
+        "introduced": "1983-01-01", 
+        "id": 540, 
+        "name": "Coleco Adam"
+    }, 
+    {
+        "id": 541, 
+        "name": "Nebulae"
+    }, 
+    {
+        "id": 542, 
+        "name": "Alex eReader"
+    }, 
+    {
+        "id": 543, 
+        "name": "Acer Iconia"
+    }, 
+    {
+        "id": 544, 
+        "name": "Archos 101"
+    }, 
+    {
+        "id": 545, 
+        "name": "Fujitsu Lifebook T900"
+    }, 
+    {
+        "id": 546, 
+        "name": "Motorola Xoom"
+    }, 
+    {
+        "id": 547, 
+        "name": "ViewSonic G Tablet"
+    }, 
+    {
+        "companyId": 10, 
+        "introduced": "1982-01-01", 
+        "id": 548, 
+        "name": "DEC Professional"
+    }, 
+    {
+        "companyId": 10, 
+        "introduced": "1994-11-07", 
+        "id": 549, 
+        "name": "DEC Multia"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 550, 
+        "name": "DEC Firefly"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 551, 
+        "name": "DEC 3000 AXP"
+    }, 
+    {
+        "companyId": 10, 
+        "introduced": "1993-05-25", 
+        "id": 552, 
+        "name": "DEC 2000 AXP"
+    }, 
+    {
+        "companyId": 10, 
+        "introduced": "1992-11-10", 
+        "id": 553, 
+        "name": "DEC 4000 AXP"
+    }, 
+    {
+        "companyId": 10, 
+        "introduced": "1992-11-10", 
+        "id": 554, 
+        "name": "DEC 7000/10000 AXP"
+    }, 
+    {
+        "id": 555, 
+        "name": "DEC Professional 350"
+    }, 
+    {
+        "id": 556, 
+        "name": "DEC Rainbow 100"
+    }, 
+    {
+        "id": 557, 
+        "name": "DEC Professional 325"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 558, 
+        "name": "DECmate II"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 559, 
+        "name": "DECmate"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 560, 
+        "name": "DECsystem"
+    }, 
+    {
+        "id": 561, 
+        "name": "NetApp Filer"
+    }, 
+    {
+        "companyId": 10, 
+        "id": 562, 
+        "name": "DEC GT40"
+    }, 
+    {
+        "id": 563, 
+        "name": "ecoATM"
+    }, 
+    {
+        "id": 564, 
+        "name": "MindWave BrainCubed Education Bundle"
+    }, 
+    {
+        "id": 565, 
+        "name": "PalmPilot"
+    }, 
+    {
+        "companyId": 1, 
+        "id": 566, 
+        "name": "Upcoming iPhone 5"
+    }, 
+    {
+        "id": 567, 
+        "name": "Dell Inspiron 560 Desktop Computer "
+    }, 
+    {
+        "companyId": 1, 
+        "id": 568, 
+        "name": "IPad 2"
+    }, 
+    {
+        "companyId": 27, 
+        "introduced": "2011-02-09", 
+        "id": 569, 
+        "name": "HP TouchPad"
+    }, 
+    {
+        "companyId": 27, 
+        "introduced": "2011-02-09", 
+        "id": 570, 
+        "name": "HP Veer"
+    }, 
+    {
+        "companyId": 36, 
+        "id": 571, 
+        "name": "Lenovo Thinkpad Edge 11"
+    }, 
+    {
+        "id": 572, 
+        "name": "Dell Vostro"
+    }, 
+    {
+        "introduced": "2008-01-01", 
+        "id": 573, 
+        "name": "Gateway LT3103U"
+    }, 
+    {
+        "companyId": 1, 
+        "introduced": "2011-10-14", 
+        "id": 574, 
+        "name": "iPhone 4S"
+    }
+]
